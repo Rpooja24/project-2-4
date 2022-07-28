@@ -124,7 +124,12 @@ div.desc {
   text-align: center;
 }
 FORM{text-align: CENTER;
-color:blueviolet;}
+color:blueviolet;
+background-color:peachpuff;
+    margin:auto;
+    border: 1em;
+}
+
 
 div.card {
   margin: 10px;
